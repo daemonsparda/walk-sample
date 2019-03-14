@@ -1,10 +1,10 @@
 # walk-sample
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to ... well, walk the dog?
 
 ## Usage
 
-FIXME
+Open up core.clj and start up a repl in your favorite emacs
 
 ## License
 
